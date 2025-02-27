@@ -1,4 +1,4 @@
-FROM node:18.0.0
+FROM node:18.20.7
 
 RUN apt-get update && apt-get upgrade -y && \
     apt-get install -y nodejs \
