@@ -23,7 +23,7 @@
     "puppeteer-core": "^19.8.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "read-excel-file": "^5.6.1"
+    "read-excel-file": "^5.8.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
